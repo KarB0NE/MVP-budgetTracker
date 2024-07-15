@@ -1,0 +1,1 @@
+export const baseURL = "baseURL for API server"
